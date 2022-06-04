@@ -1,7 +1,8 @@
 [default]
 src = 'src'
 out = 'out'
+test = 'solutions'
 libs = ['lib']
-remappings = ['ds-test/=lib/ds-test/src/']
+# remappings = ['ds-test/=lib/ds-test/src/']
 
 # See more config options https://github.com/gakonst/foundry/tree/master/config
